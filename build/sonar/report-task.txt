@@ -1,0 +1,7 @@
+organization=aravindkanna
+projectKey=aravindkanna_SampleSonarTesting
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.1404
+dashboardUrl=https://sonarcloud.io/dashboard?id=aravindkanna_SampleSonarTesting
+ceTaskId=AW3RhYsnjJHmQAEMHDci
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW3RhYsnjJHmQAEMHDci
