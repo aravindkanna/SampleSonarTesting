@@ -5,5 +5,6 @@ public class Main {
         if (a == 5) {
             System.out.println("OMG a is " + a);
         }
+        System.out.println("Hey Hello again");
     }
 }
